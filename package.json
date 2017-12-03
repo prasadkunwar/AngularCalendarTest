@@ -21,8 +21,11 @@
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-beta.5",
+    "angular-calendar": "^0.22.1",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
+    "typescript": "^2.7.0-dev.20171124",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
@@ -44,6 +47,6 @@
     "protractor": "~5.1.2",
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
-    "typescript": "~2.3.3"
+    "typescript": "~2.4.0"
   }
 }
